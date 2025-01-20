@@ -233,7 +233,7 @@ You should see this response in your terminal: **Hi username! You've successfull
 You've completed the basic installations section, good job! As you progress through the Paths there will be other tools to install, so keep an eye out!
 
 You probably felt like you were way in over your head, and you probably didn't understand much of what you were doing. That's 100% normal. Hang in there. You can do this! And we've got your back.
-
+********Please tell us how to exit - or just close the terminal??? ************
 ### Additional resources
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
